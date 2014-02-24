@@ -1,4 +1,4 @@
-package dk.mortendahl.paterson.singleton;
+package paterson.singleton;
 
 public class ThreadSafeEager {
 
